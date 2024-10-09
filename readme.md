@@ -3,3 +3,4 @@ ls -lrt
 git branch
  checkout -b "feature/task-02"
  git branch
+ git status
